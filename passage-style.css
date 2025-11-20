@@ -1,0 +1,15 @@
+pre, code {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 11pt;
+    white-space: pre;
+    overflow-x: visible;
+}
+
+pre {
+    line-height: 1.5;
+}
+
+body {
+    max-width: 8.5in;
+    margin: 0.5in auto;
+}
